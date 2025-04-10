@@ -153,13 +153,10 @@ backdrop-filter: blur(89.0999984741211px);
 background: rgba(255, 255, 255, 0.01);
 }
 
-.header-button:focus, .header-button:hover {
-    border-color: #4e75ff;
-}
-
-
 /* ========= main =============== */
-
+.main {
+  width: 430px;
+}
 /* ========= main-info =============== */
 .main-info {
     width: 430px;
@@ -479,4 +476,14 @@ text-align: center;
 
 .media-partners-list-li {
     background: #3c3c3c;
+}
+
+.header-button:focus, 
+.header-button:hover,
+.ticket-button:hover {
+  border-color: #4e75ff;
+}
+
+.main-info-list-href:hover {
+  color: #ffd700;
 }
