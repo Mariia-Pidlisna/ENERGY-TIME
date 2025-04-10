@@ -298,6 +298,7 @@ text-shadow: inset 0 4px 4px 0 rgba(0, 0, 0, 0.25);
 font-weight: 400;
 font-size: 15px;
 color: #fff;
+text-align: center;
 }
 
 /* ============ tickets ============= */
@@ -407,6 +408,7 @@ font-weight: 400;
 font-size: 48px;
 color: #fff;
 text-transform: uppercase;
+text-align: center;
 }
 
 /* ============== agenda ============ */
